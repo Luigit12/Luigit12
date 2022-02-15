@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Luigit12, 9t2, 3g9 and/or Seal12
+
 <!--
 **Luigit12/Luigit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
