@@ -1,5 +1,6 @@
 ## Hi there 👋
 Wazzup
+discord: Zeb#2676
 
 <!--
 **Luigit12/Luigit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
